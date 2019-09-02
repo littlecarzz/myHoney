@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/login.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="337">
@@ -36,11 +36,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cjj/Application.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="403">
-              <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#203#204#0" expanded="true" />
@@ -79,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/cjj/Application.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -124,7 +134,9 @@
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -212,6 +224,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ideaProject\myHoney" />
       <recent name="F:\ideaProject\myHoney\src\main\resources\static" />
       <recent name="F:\ideaProject\myHoney\src\main\resources\static\js" />
       <recent name="F:\ideaProject\myHoney\src\main\resources\templates" />
@@ -240,7 +253,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567413310743</updated>
-      <workItem from="1567413314045" duration="3330000" />
+      <workItem from="1567413314045" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="20190902">
       <created>1567416334890</created>
@@ -249,14 +262,22 @@
       <option name="project" value="LOCAL" />
       <updated>1567416334890</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20190902">
+      <created>1567416779631</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567416779631</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3330000" />
+    <option name="totallyTimeSpent" value="3515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
       <window_info id="Image Layers" />
@@ -378,7 +399,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cjj/Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="403">
-          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#203#204#0" expanded="true" />
@@ -404,6 +425,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="36" column="51" selection-start-line="36" selection-start-column="51" selection-end-line="36" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
         </state>
       </provider>
     </entry>
